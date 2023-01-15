@@ -1,0 +1,32 @@
+[
+    {
+        "name": "instagram",
+        "direct": "https://www.instagram.com/kemsgraphics/",
+        "imageSolid": "./img/solid-sosmed/instagram.svg",
+        "imageOutline": "./img/outline-sosmed/instagram.svg"
+    },
+    {
+        "name": "facebook",
+        "direct": "https://www.facebook.com/kemsgraphics",
+        "imageSolid": "./img/solid-sosmed/facebook.svg",
+        "imageOutline": "./img/outline-sosmed/facebook.svg"
+    },
+    {
+        "name": "behance",
+        "direct": "https://www.behance.net/albaarikemal",
+        "imageSolid": "./img/solid-sosmed/behance.svg",
+        "imageOutline": "./img/outline-sosmed/behance.svg"
+    },
+    {
+        "name": "email",
+        "direct": "mailto:hello@kemsgraphics.com",
+        "imageSolid": "./img/solid-sosmed/email.svg",
+        "imageOutline": "./img/outline-sosmed/email.svg"
+    },
+    {
+        "name": "fiverr",
+        "direct": "https://www.fiverr.com/kemsgraphics",
+        "imageSolid": "./img/solid-sosmed/fiverr.svg",
+        "imageOutline": "./img/outline-sosmed/fiverr.svg"
+    }
+]
